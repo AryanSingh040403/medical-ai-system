@@ -7,4 +7,4 @@ fastapi
 uvicorn
 streamlit
 pandas
-scikit-learn
+scikit-learn 
